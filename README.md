@@ -1,4 +1,11 @@
 FoodHub Business Data Analysis
+
+> **MIT Professional Certificate in AI & Data Science**
+>
+> This project was completed as part of the MIT Professional Certificate in AI & Data Science program.
+>
+> [View the complete four-project certificate portfolio](https://github.com/users/rickhegenbart/projects/2)
+> 
 Project Overview
 
 Online food delivery platforms rely heavily on operational efficiency and customer satisfaction. This project analyzes order data from FoodHub, a food aggregator platform that connects customers with restaurants through a mobile application.
